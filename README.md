@@ -16,7 +16,7 @@ The system's other strength lies in its use of sentiment analysis powered by lar
 ## Read the Full Report 📖
 [Dissertation](https://github.com/FrancescoCoding/hons-project/blob/main/Honours%20Project%20Dissertation%20-%20Francesco%20Gruosso%202024.pdf)
 
-## 🌐 Live Links for the RGU Org Feedback Link
+## 🌐 Live Links for the RGU Org Feedback Links
 ### General Feedback 📥
 https://rgu.anonfeedback.io/  
 ### Project Discussion 💬
